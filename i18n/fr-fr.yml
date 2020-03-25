@@ -1,0 +1,7 @@
+locale: "fr-fr"
+
+messages:
+  CHANGE_LANGUAGE: "Changer la langue"
+  HELLO: "Bonjour {name}"
+  ENTER_NAME: "Votre nom"
+  COUNT: "{count, plural, =0 {pas d'item} one {# item} other {# items}}"

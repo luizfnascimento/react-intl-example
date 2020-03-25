@@ -1,0 +1,7 @@
+locale: "pt-br"
+
+messages:
+  CHANGE_LANGUAGE: "Altere o idioma"
+  HELLO: "Olá {name}"
+  ENTER_NAME: "Seu nome"
+  COUNT: "{count, plural, =0 {sem itens} one {# item} other {# itens}}"
